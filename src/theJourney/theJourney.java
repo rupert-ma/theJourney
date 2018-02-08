@@ -1,3 +1,5 @@
+//For a test Commit
+
 import javax.swing.JOptionPane;
 public class theJourney {
     //private static String strangersQuest;
